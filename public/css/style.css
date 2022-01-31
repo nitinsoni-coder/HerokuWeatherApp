@@ -50,7 +50,7 @@ body{
 }
 
 .navbar-toggler{
-    background-color: grey;
+    background-color: rgb(199, 194, 194);
 }
 
 .fa-snowflake{
@@ -170,6 +170,11 @@ footer p{
     .main_layer .middle_layer .fa {
         font-size: 3rem;
     }
+
+    .main_content .temp_form{
+        width: 100%;
+    }
+
 }
 
 /*----------- weather page style --------------*/
